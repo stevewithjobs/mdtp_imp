@@ -1,0 +1,254 @@
+model load successfully!
+Total parameters: 71967905
+Iter: 00
+Test Bike Start MAE: 2.8089, Test Bike End MAE: 3.3393, Test Taxi Start MAE: 7.2804, Test Taxi End MAE: 8.2822, 
+Test Bike Start RMSE: 4.6197, Test Bike End RMSE: 5.4228, Test Taxi Start RMSE: 14.9468, Test Taxi End RMSE: 17.9788, 
+Test Bike Start MAPE: 43.5435, Test Bike End MAPE: 39.0937, Test Taxi Start MAPE: 37.6737, Test Taxi End MAPE: 36.5045
+Iter: 01
+Test Bike Start MAE: 2.6732, Test Bike End MAE: 3.2268, Test Taxi Start MAE: 6.3435, Test Taxi End MAE: 6.6065, 
+Test Bike Start RMSE: 4.3520, Test Bike End RMSE: 5.2699, Test Taxi Start RMSE: 12.8540, Test Taxi End RMSE: 14.2246, 
+Test Bike Start MAPE: 41.9598, Test Bike End MAPE: 39.6344, Test Taxi Start MAPE: 36.4857, Test Taxi End MAPE: 35.8365
+Iter: 02
+Test Bike Start MAE: 2.6398, Test Bike End MAE: 3.4038, Test Taxi Start MAE: 7.0552, Test Taxi End MAE: 7.7052, 
+Test Bike Start RMSE: 4.0790, Test Bike End RMSE: 5.3070, Test Taxi Start RMSE: 14.4525, Test Taxi End RMSE: 16.9640, 
+Test Bike Start MAPE: 44.7124, Test Bike End MAPE: 43.4373, Test Taxi Start MAPE: 37.6772, Test Taxi End MAPE: 37.7278
+Iter: 03
+Test Bike Start MAE: 2.6273, Test Bike End MAE: 3.0737, Test Taxi Start MAE: 7.5847, Test Taxi End MAE: 8.2637, 
+Test Bike Start RMSE: 4.3124, Test Bike End RMSE: 4.8550, Test Taxi Start RMSE: 15.5252, Test Taxi End RMSE: 17.8415, 
+Test Bike Start MAPE: 43.6890, Test Bike End MAPE: 37.1728, Test Taxi Start MAPE: 38.7396, Test Taxi End MAPE: 38.5522
+Iter: 04
+Test Bike Start MAE: 2.5586, Test Bike End MAE: 3.3000, Test Taxi Start MAE: 7.9543, Test Taxi End MAE: 8.0317, 
+Test Bike Start RMSE: 4.0686, Test Bike End RMSE: 5.1917, Test Taxi Start RMSE: 16.6491, Test Taxi End RMSE: 17.1976, 
+Test Bike Start MAPE: 42.1132, Test Bike End MAPE: 44.1577, Test Taxi Start MAPE: 38.3503, Test Taxi End MAPE: 35.9829
+Iter: 05
+Test Bike Start MAE: 2.4615, Test Bike End MAE: 2.9767, Test Taxi Start MAE: 7.6832, Test Taxi End MAE: 8.3167, 
+Test Bike Start RMSE: 3.9541, Test Bike End RMSE: 4.6933, Test Taxi Start RMSE: 15.7504, Test Taxi End RMSE: 19.5651, 
+Test Bike Start MAPE: 44.1502, Test Bike End MAPE: 39.9773, Test Taxi Start MAPE: 35.6837, Test Taxi End MAPE: 35.8161
+Iter: 06
+Test Bike Start MAE: 2.6504, Test Bike End MAE: 3.0560, Test Taxi Start MAE: 7.3011, Test Taxi End MAE: 7.8577, 
+Test Bike Start RMSE: 4.2148, Test Bike End RMSE: 4.8562, Test Taxi Start RMSE: 14.5651, Test Taxi End RMSE: 15.7721, 
+Test Bike Start MAPE: 45.5923, Test Bike End MAPE: 40.8111, Test Taxi Start MAPE: 36.7446, Test Taxi End MAPE: 32.7411
+Iter: 07
+Test Bike Start MAE: 2.6164, Test Bike End MAE: 3.0074, Test Taxi Start MAE: 6.5904, Test Taxi End MAE: 7.5520, 
+Test Bike Start RMSE: 3.9974, Test Bike End RMSE: 4.6929, Test Taxi Start RMSE: 13.1898, Test Taxi End RMSE: 16.4989, 
+Test Bike Start MAPE: 47.6990, Test Bike End MAPE: 44.3699, Test Taxi Start MAPE: 36.9244, Test Taxi End MAPE: 34.0725
+Iter: 08
+Test Bike Start MAE: 2.6955, Test Bike End MAE: 2.9655, Test Taxi Start MAE: 7.9109, Test Taxi End MAE: 7.7431, 
+Test Bike Start RMSE: 4.2919, Test Bike End RMSE: 4.7800, Test Taxi Start RMSE: 17.6166, Test Taxi End RMSE: 16.5822, 
+Test Bike Start MAPE: 44.5352, Test Bike End MAPE: 39.7329, Test Taxi Start MAPE: 37.9340, Test Taxi End MAPE: 38.3395
+Iter: 09
+Test Bike Start MAE: 2.6419, Test Bike End MAE: 3.2386, Test Taxi Start MAE: 7.0952, Test Taxi End MAE: 7.7626, 
+Test Bike Start RMSE: 4.3000, Test Bike End RMSE: 5.3288, Test Taxi Start RMSE: 17.0060, Test Taxi End RMSE: 17.9002, 
+Test Bike Start MAPE: 45.0606, Test Bike End MAPE: 44.0598, Test Taxi Start MAPE: 39.0695, Test Taxi End MAPE: 35.4817
+Iter: 10
+Test Bike Start MAE: 2.4397, Test Bike End MAE: 3.1869, Test Taxi Start MAE: 7.0229, Test Taxi End MAE: 7.6999, 
+Test Bike Start RMSE: 3.9495, Test Bike End RMSE: 5.2970, Test Taxi Start RMSE: 15.3197, Test Taxi End RMSE: 16.6954, 
+Test Bike Start MAPE: 46.3286, Test Bike End MAPE: 43.9777, Test Taxi Start MAPE: 38.4518, Test Taxi End MAPE: 37.8418
+Iter: 11
+Test Bike Start MAE: 2.4418, Test Bike End MAE: 3.0758, Test Taxi Start MAE: 6.4155, Test Taxi End MAE: 7.0996, 
+Test Bike Start RMSE: 4.0380, Test Bike End RMSE: 4.9402, Test Taxi Start RMSE: 13.4584, Test Taxi End RMSE: 16.5508, 
+Test Bike Start MAPE: 46.5781, Test Bike End MAPE: 43.0898, Test Taxi Start MAPE: 39.9264, Test Taxi End MAPE: 36.2036
+Iter: 12
+Test Bike Start MAE: 2.6727, Test Bike End MAE: 3.2404, Test Taxi Start MAE: 6.8780, Test Taxi End MAE: 7.2365, 
+Test Bike Start RMSE: 4.8700, Test Bike End RMSE: 5.2321, Test Taxi Start RMSE: 14.5608, Test Taxi End RMSE: 15.3895, 
+Test Bike Start MAPE: 44.0569, Test Bike End MAPE: 40.8382, Test Taxi Start MAPE: 39.3527, Test Taxi End MAPE: 39.1224
+Iter: 13
+Test Bike Start MAE: 2.6287, Test Bike End MAE: 3.2128, Test Taxi Start MAE: 6.8769, Test Taxi End MAE: 7.4401, 
+Test Bike Start RMSE: 4.0755, Test Bike End RMSE: 5.0180, Test Taxi Start RMSE: 13.9978, Test Taxi End RMSE: 16.2417, 
+Test Bike Start MAPE: 39.0458, Test Bike End MAPE: 40.4743, Test Taxi Start MAPE: 37.6908, Test Taxi End MAPE: 36.3971
+Iter: 14
+Test Bike Start MAE: 2.8622, Test Bike End MAE: 3.4010, Test Taxi Start MAE: 7.9405, Test Taxi End MAE: 7.7522, 
+Test Bike Start RMSE: 4.6080, Test Bike End RMSE: 5.2960, Test Taxi Start RMSE: 16.3378, Test Taxi End RMSE: 16.5189, 
+Test Bike Start MAPE: 41.9491, Test Bike End MAPE: 36.1670, Test Taxi Start MAPE: 37.6498, Test Taxi End MAPE: 38.9091
+Iter: 15
+Test Bike Start MAE: 2.8267, Test Bike End MAE: 3.3476, Test Taxi Start MAE: 6.8147, Test Taxi End MAE: 7.2518, 
+Test Bike Start RMSE: 4.4907, Test Bike End RMSE: 5.2795, Test Taxi Start RMSE: 13.6414, Test Taxi End RMSE: 16.0065, 
+Test Bike Start MAPE: 41.2457, Test Bike End MAPE: 34.6313, Test Taxi Start MAPE: 36.5832, Test Taxi End MAPE: 36.3071
+Iter: 16
+Test Bike Start MAE: 2.8148, Test Bike End MAE: 3.5269, Test Taxi Start MAE: 6.9677, Test Taxi End MAE: 7.8176, 
+Test Bike Start RMSE: 4.5040, Test Bike End RMSE: 5.4942, Test Taxi Start RMSE: 13.9774, Test Taxi End RMSE: 16.3534, 
+Test Bike Start MAPE: 42.3727, Test Bike End MAPE: 39.6709, Test Taxi Start MAPE: 37.9779, Test Taxi End MAPE: 38.0536
+Iter: 17
+Test Bike Start MAE: 2.7247, Test Bike End MAE: 3.4202, Test Taxi Start MAE: 6.8799, Test Taxi End MAE: 8.0216, 
+Test Bike Start RMSE: 4.3720, Test Bike End RMSE: 5.6830, Test Taxi Start RMSE: 13.7584, Test Taxi End RMSE: 17.8158, 
+Test Bike Start MAPE: 43.9862, Test Bike End MAPE: 38.1254, Test Taxi Start MAPE: 34.8074, Test Taxi End MAPE: 36.9108
+Iter: 18
+Test Bike Start MAE: 2.8672, Test Bike End MAE: 3.4531, Test Taxi Start MAE: 7.7938, Test Taxi End MAE: 7.7894, 
+Test Bike Start RMSE: 4.7406, Test Bike End RMSE: 5.2930, Test Taxi Start RMSE: 17.0672, Test Taxi End RMSE: 16.3122, 
+Test Bike Start MAPE: 46.4552, Test Bike End MAPE: 41.8528, Test Taxi Start MAPE: 37.6176, Test Taxi End MAPE: 38.1451
+Iter: 19
+Test Bike Start MAE: 2.7974, Test Bike End MAE: 3.4571, Test Taxi Start MAE: 7.1763, Test Taxi End MAE: 7.5827, 
+Test Bike Start RMSE: 4.3889, Test Bike End RMSE: 5.4534, Test Taxi Start RMSE: 13.9407, Test Taxi End RMSE: 15.1974, 
+Test Bike Start MAPE: 43.9908, Test Bike End MAPE: 39.1208, Test Taxi Start MAPE: 36.4245, Test Taxi End MAPE: 34.5870
+Iter: 20
+Test Bike Start MAE: 2.6237, Test Bike End MAE: 3.2042, Test Taxi Start MAE: 7.3870, Test Taxi End MAE: 7.7930, 
+Test Bike Start RMSE: 4.2422, Test Bike End RMSE: 4.9604, Test Taxi Start RMSE: 14.9612, Test Taxi End RMSE: 16.4196, 
+Test Bike Start MAPE: 46.5172, Test Bike End MAPE: 43.6258, Test Taxi Start MAPE: 36.3396, Test Taxi End MAPE: 35.6734
+Iter: 21
+Test Bike Start MAE: 2.4531, Test Bike End MAE: 2.8636, Test Taxi Start MAE: 8.3928, Test Taxi End MAE: 7.6592, 
+Test Bike Start RMSE: 3.7724, Test Bike End RMSE: 4.5138, Test Taxi Start RMSE: 18.6828, Test Taxi End RMSE: 15.9213, 
+Test Bike Start MAPE: 48.6773, Test Bike End MAPE: 42.5936, Test Taxi Start MAPE: 35.8941, Test Taxi End MAPE: 33.1127
+Iter: 22
+Test Bike Start MAE: 2.4277, Test Bike End MAE: 3.0054, Test Taxi Start MAE: 7.5185, Test Taxi End MAE: 6.5286, 
+Test Bike Start RMSE: 3.8942, Test Bike End RMSE: 4.8751, Test Taxi Start RMSE: 15.5885, Test Taxi End RMSE: 13.6345, 
+Test Bike Start MAPE: 47.5057, Test Bike End MAPE: 38.9709, Test Taxi Start MAPE: 39.5007, Test Taxi End MAPE: 34.3733
+Iter: 23
+Test Bike Start MAE: 2.4444, Test Bike End MAE: 3.0317, Test Taxi Start MAE: 7.3252, Test Taxi End MAE: 7.5254, 
+Test Bike Start RMSE: 4.1008, Test Bike End RMSE: 4.8454, Test Taxi Start RMSE: 17.2333, Test Taxi End RMSE: 17.7230, 
+Test Bike Start MAPE: 43.8628, Test Bike End MAPE: 42.5549, Test Taxi Start MAPE: 37.8593, Test Taxi End MAPE: 31.8037
+Iter: 24
+Test Bike Start MAE: 2.5782, Test Bike End MAE: 3.1187, Test Taxi Start MAE: 6.6840, Test Taxi End MAE: 7.0868, 
+Test Bike Start RMSE: 4.3134, Test Bike End RMSE: 5.1094, Test Taxi Start RMSE: 13.7036, Test Taxi End RMSE: 13.9358, 
+Test Bike Start MAPE: 44.6750, Test Bike End MAPE: 42.2721, Test Taxi Start MAPE: 37.0837, Test Taxi End MAPE: 36.3952
+Iter: 25
+Test Bike Start MAE: 2.6342, Test Bike End MAE: 3.0560, Test Taxi Start MAE: 6.4114, Test Taxi End MAE: 7.2108, 
+Test Bike Start RMSE: 4.2211, Test Bike End RMSE: 4.8384, Test Taxi Start RMSE: 12.8870, Test Taxi End RMSE: 15.0751, 
+Test Bike Start MAPE: 47.2697, Test Bike End MAPE: 40.1209, Test Taxi Start MAPE: 38.9627, Test Taxi End MAPE: 34.3637
+Iter: 26
+Test Bike Start MAE: 2.6415, Test Bike End MAE: 3.0526, Test Taxi Start MAE: 7.5386, Test Taxi End MAE: 7.9830, 
+Test Bike Start RMSE: 4.5565, Test Bike End RMSE: 4.8063, Test Taxi Start RMSE: 15.8425, Test Taxi End RMSE: 16.9872, 
+Test Bike Start MAPE: 44.7301, Test Bike End MAPE: 38.1645, Test Taxi Start MAPE: 41.0099, Test Taxi End MAPE: 39.1234
+Iter: 27
+Test Bike Start MAE: 2.6279, Test Bike End MAE: 2.9816, Test Taxi Start MAE: 6.9721, Test Taxi End MAE: 8.2554, 
+Test Bike Start RMSE: 4.1466, Test Bike End RMSE: 4.6509, Test Taxi Start RMSE: 14.0621, Test Taxi End RMSE: 18.4015, 
+Test Bike Start MAPE: 43.5865, Test Bike End MAPE: 41.6128, Test Taxi Start MAPE: 39.8976, Test Taxi End MAPE: 36.8880
+Iter: 28
+Test Bike Start MAE: 2.4742, Test Bike End MAE: 2.9055, Test Taxi Start MAE: 7.2070, Test Taxi End MAE: 7.8529, 
+Test Bike Start RMSE: 4.1396, Test Bike End RMSE: 4.5716, Test Taxi Start RMSE: 14.6149, Test Taxi End RMSE: 18.0682, 
+Test Bike Start MAPE: 46.2131, Test Bike End MAPE: 42.8546, Test Taxi Start MAPE: 38.5386, Test Taxi End MAPE: 37.0617
+Iter: 29
+Test Bike Start MAE: 2.3205, Test Bike End MAE: 2.8215, Test Taxi Start MAE: 7.3539, Test Taxi End MAE: 8.0644, 
+Test Bike Start RMSE: 3.6948, Test Bike End RMSE: 4.5685, Test Taxi Start RMSE: 14.9795, Test Taxi End RMSE: 17.5405, 
+Test Bike Start MAPE: 46.1872, Test Bike End MAPE: 44.3130, Test Taxi Start MAPE: 38.2612, Test Taxi End MAPE: 36.9162
+Iter: 30
+Test Bike Start MAE: 2.2723, Test Bike End MAE: 2.8890, Test Taxi Start MAE: 7.8100, Test Taxi End MAE: 8.1225, 
+Test Bike Start RMSE: 3.5831, Test Bike End RMSE: 4.6679, Test Taxi Start RMSE: 17.2304, Test Taxi End RMSE: 17.6021, 
+Test Bike Start MAPE: 46.7642, Test Bike End MAPE: 42.4314, Test Taxi Start MAPE: 38.4422, Test Taxi End MAPE: 37.0226
+Iter: 31
+Test Bike Start MAE: 2.2751, Test Bike End MAE: 2.8443, Test Taxi Start MAE: 7.6371, Test Taxi End MAE: 7.9214, 
+Test Bike Start RMSE: 3.6343, Test Bike End RMSE: 4.6627, Test Taxi Start RMSE: 15.6002, Test Taxi End RMSE: 16.6599, 
+Test Bike Start MAPE: 47.1147, Test Bike End MAPE: 40.7278, Test Taxi Start MAPE: 38.0818, Test Taxi End MAPE: 34.4627
+Iter: 32
+Test Bike Start MAE: 2.4328, Test Bike End MAE: 3.0122, Test Taxi Start MAE: 8.2467, Test Taxi End MAE: 8.6300, 
+Test Bike Start RMSE: 3.8837, Test Bike End RMSE: 4.8477, Test Taxi Start RMSE: 18.1797, Test Taxi End RMSE: 18.8492, 
+Test Bike Start MAPE: 50.0098, Test Bike End MAPE: 42.8202, Test Taxi Start MAPE: 37.6778, Test Taxi End MAPE: 36.9240
+Iter: 33
+Test Bike Start MAE: 2.2577, Test Bike End MAE: 2.8755, Test Taxi Start MAE: 8.1743, Test Taxi End MAE: 8.0964, 
+Test Bike Start RMSE: 3.7279, Test Bike End RMSE: 5.3253, Test Taxi Start RMSE: 18.1376, Test Taxi End RMSE: 17.5037, 
+Test Bike Start MAPE: 47.6598, Test Bike End MAPE: 43.8265, Test Taxi Start MAPE: 37.8726, Test Taxi End MAPE: 35.8500
+Iter: 34
+Test Bike Start MAE: 2.4718, Test Bike End MAE: 3.0153, Test Taxi Start MAE: 8.0570, Test Taxi End MAE: 8.7429, 
+Test Bike Start RMSE: 4.1376, Test Bike End RMSE: 5.3015, Test Taxi Start RMSE: 16.7977, Test Taxi End RMSE: 18.9542, 
+Test Bike Start MAPE: 50.9502, Test Bike End MAPE: 46.0315, Test Taxi Start MAPE: 39.7897, Test Taxi End MAPE: 41.9322
+Iter: 35
+Test Bike Start MAE: 2.4417, Test Bike End MAE: 2.7235, Test Taxi Start MAE: 6.8050, Test Taxi End MAE: 7.6476, 
+Test Bike Start RMSE: 4.7329, Test Bike End RMSE: 4.5733, Test Taxi Start RMSE: 13.9712, Test Taxi End RMSE: 17.9117, 
+Test Bike Start MAPE: 50.9742, Test Bike End MAPE: 45.7565, Test Taxi Start MAPE: 40.0330, Test Taxi End MAPE: 38.3927
+Iter: 36
+Test Bike Start MAE: 2.3427, Test Bike End MAE: 2.8550, Test Taxi Start MAE: 7.2062, Test Taxi End MAE: 8.0571, 
+Test Bike Start RMSE: 4.1602, Test Bike End RMSE: 4.6108, Test Taxi Start RMSE: 15.5670, Test Taxi End RMSE: 18.9802, 
+Test Bike Start MAPE: 48.3128, Test Bike End MAPE: 42.7672, Test Taxi Start MAPE: 42.3109, Test Taxi End MAPE: 38.4088
+Iter: 37
+Test Bike Start MAE: 2.5326, Test Bike End MAE: 3.0425, Test Taxi Start MAE: 6.4355, Test Taxi End MAE: 7.5109, 
+Test Bike Start RMSE: 4.1793, Test Bike End RMSE: 4.8308, Test Taxi Start RMSE: 12.7476, Test Taxi End RMSE: 16.3060, 
+Test Bike Start MAPE: 44.5669, Test Bike End MAPE: 41.3479, Test Taxi Start MAPE: 39.8875, Test Taxi End MAPE: 38.4284
+Iter: 38
+Test Bike Start MAE: 2.5712, Test Bike End MAE: 3.0610, Test Taxi Start MAE: 7.2611, Test Taxi End MAE: 7.5914, 
+Test Bike Start RMSE: 4.1347, Test Bike End RMSE: 4.7802, Test Taxi Start RMSE: 14.6073, Test Taxi End RMSE: 15.5111, 
+Test Bike Start MAPE: 43.5895, Test Bike End MAPE: 40.5901, Test Taxi Start MAPE: 39.8562, Test Taxi End MAPE: 39.2804
+Iter: 39
+Test Bike Start MAE: 2.5680, Test Bike End MAE: 3.0913, Test Taxi Start MAE: 7.2204, Test Taxi End MAE: 7.9318, 
+Test Bike Start RMSE: 4.0572, Test Bike End RMSE: 4.9587, Test Taxi Start RMSE: 14.7731, Test Taxi End RMSE: 17.5341, 
+Test Bike Start MAPE: 45.6979, Test Bike End MAPE: 39.8850, Test Taxi Start MAPE: 37.8849, Test Taxi End MAPE: 38.6575
+Iter: 40
+Test Bike Start MAE: 2.5112, Test Bike End MAE: 3.0783, Test Taxi Start MAE: 7.5919, Test Taxi End MAE: 8.5845, 
+Test Bike Start RMSE: 3.9119, Test Bike End RMSE: 4.7270, Test Taxi Start RMSE: 15.9206, Test Taxi End RMSE: 18.4804, 
+Test Bike Start MAPE: 41.8444, Test Bike End MAPE: 38.6315, Test Taxi Start MAPE: 37.9817, Test Taxi End MAPE: 40.0884
+Iter: 41
+Test Bike Start MAE: 2.7501, Test Bike End MAE: 3.2664, Test Taxi Start MAE: 7.7025, Test Taxi End MAE: 8.6404, 
+Test Bike Start RMSE: 4.6680, Test Bike End RMSE: 5.1703, Test Taxi Start RMSE: 16.6965, Test Taxi End RMSE: 18.8335, 
+Test Bike Start MAPE: 45.4941, Test Bike End MAPE: 43.8706, Test Taxi Start MAPE: 35.9567, Test Taxi End MAPE: 37.3981
+Iter: 42
+Test Bike Start MAE: 2.9504, Test Bike End MAE: 3.3136, Test Taxi Start MAE: 8.0243, Test Taxi End MAE: 8.7422, 
+Test Bike Start RMSE: 5.3891, Test Bike End RMSE: 5.3440, Test Taxi Start RMSE: 16.9231, Test Taxi End RMSE: 17.8565, 
+Test Bike Start MAPE: 44.0317, Test Bike End MAPE: 36.0654, Test Taxi Start MAPE: 37.8998, Test Taxi End MAPE: 35.8557
+Iter: 43
+Test Bike Start MAE: 2.6200, Test Bike End MAE: 3.1159, Test Taxi Start MAE: 7.4799, Test Taxi End MAE: 7.9882, 
+Test Bike Start RMSE: 4.2408, Test Bike End RMSE: 4.9033, Test Taxi Start RMSE: 15.0518, Test Taxi End RMSE: 16.8126, 
+Test Bike Start MAPE: 42.7227, Test Bike End MAPE: 38.4282, Test Taxi Start MAPE: 36.6224, Test Taxi End MAPE: 33.9136
+Iter: 44
+Test Bike Start MAE: 2.6047, Test Bike End MAE: 3.0557, Test Taxi Start MAE: 8.2122, Test Taxi End MAE: 8.6354, 
+Test Bike Start RMSE: 4.2874, Test Bike End RMSE: 4.9575, Test Taxi Start RMSE: 16.3713, Test Taxi End RMSE: 18.0415, 
+Test Bike Start MAPE: 47.6691, Test Bike End MAPE: 39.4254, Test Taxi Start MAPE: 37.3577, Test Taxi End MAPE: 33.8490
+Iter: 45
+Test Bike Start MAE: 2.5403, Test Bike End MAE: 3.0371, Test Taxi Start MAE: 6.9442, Test Taxi End MAE: 7.5400, 
+Test Bike Start RMSE: 3.9695, Test Bike End RMSE: 4.7327, Test Taxi Start RMSE: 13.8212, Test Taxi End RMSE: 15.3326, 
+Test Bike Start MAPE: 44.4758, Test Bike End MAPE: 43.7422, Test Taxi Start MAPE: 38.2152, Test Taxi End MAPE: 36.8788
+Iter: 46
+Test Bike Start MAE: 2.5114, Test Bike End MAE: 2.8176, Test Taxi Start MAE: 7.1622, Test Taxi End MAE: 7.4667, 
+Test Bike Start RMSE: 4.1050, Test Bike End RMSE: 4.4527, Test Taxi Start RMSE: 15.2414, Test Taxi End RMSE: 14.9508, 
+Test Bike Start MAPE: 45.7518, Test Bike End MAPE: 44.6427, Test Taxi Start MAPE: 40.4223, Test Taxi End MAPE: 38.7773
+Iter: 47
+Test Bike Start MAE: 2.4995, Test Bike End MAE: 3.0505, Test Taxi Start MAE: 7.1061, Test Taxi End MAE: 6.9565, 
+Test Bike Start RMSE: 3.8814, Test Bike End RMSE: 4.7285, Test Taxi Start RMSE: 15.3164, Test Taxi End RMSE: 14.5656, 
+Test Bike Start MAPE: 47.6691, Test Bike End MAPE: 44.1293, Test Taxi Start MAPE: 38.1314, Test Taxi End MAPE: 36.6466
+Iter: 48
+Test Bike Start MAE: 2.4800, Test Bike End MAE: 2.9387, Test Taxi Start MAE: 6.4050, Test Taxi End MAE: 7.4819, 
+Test Bike Start RMSE: 3.8839, Test Bike End RMSE: 4.5854, Test Taxi Start RMSE: 12.3346, Test Taxi End RMSE: 15.7362, 
+Test Bike Start MAPE: 46.7501, Test Bike End MAPE: 39.7649, Test Taxi Start MAPE: 37.6098, Test Taxi End MAPE: 39.3066
+Iter: 49
+Test Bike Start MAE: 2.3748, Test Bike End MAE: 3.0328, Test Taxi Start MAE: 6.9369, Test Taxi End MAE: 7.4238, 
+Test Bike Start RMSE: 3.8757, Test Bike End RMSE: 4.8694, Test Taxi Start RMSE: 14.0018, Test Taxi End RMSE: 16.5324, 
+Test Bike Start MAPE: 41.1200, Test Bike End MAPE: 38.7478, Test Taxi Start MAPE: 36.6404, Test Taxi End MAPE: 34.1857
+Iter: 50
+Test Bike Start MAE: 2.6691, Test Bike End MAE: 3.2213, Test Taxi Start MAE: 6.9293, Test Taxi End MAE: 7.7815, 
+Test Bike Start RMSE: 4.4060, Test Bike End RMSE: 5.1192, Test Taxi Start RMSE: 13.7644, Test Taxi End RMSE: 16.4935, 
+Test Bike Start MAPE: 40.8883, Test Bike End MAPE: 39.0560, Test Taxi Start MAPE: 37.0707, Test Taxi End MAPE: 36.5597
+Iter: 51
+Test Bike Start MAE: 2.8577, Test Bike End MAE: 3.1781, Test Taxi Start MAE: 6.7830, Test Taxi End MAE: 7.0815, 
+Test Bike Start RMSE: 4.4917, Test Bike End RMSE: 4.8209, Test Taxi Start RMSE: 13.3100, Test Taxi End RMSE: 14.5193, 
+Test Bike Start MAPE: 41.5073, Test Bike End MAPE: 39.7720, Test Taxi Start MAPE: 36.8886, Test Taxi End MAPE: 35.5295
+Iter: 52
+Test Bike Start MAE: 3.0091, Test Bike End MAE: 3.5866, Test Taxi Start MAE: 7.5155, Test Taxi End MAE: 7.9183, 
+Test Bike Start RMSE: 5.0962, Test Bike End RMSE: 5.8956, Test Taxi Start RMSE: 15.8203, Test Taxi End RMSE: 16.7517, 
+Test Bike Start MAPE: 43.3205, Test Bike End MAPE: 39.0612, Test Taxi Start MAPE: 38.8254, Test Taxi End MAPE: 37.7363
+Iter: 53
+Test Bike Start MAE: 2.6747, Test Bike End MAE: 3.2214, Test Taxi Start MAE: 7.2920, Test Taxi End MAE: 7.5708, 
+Test Bike Start RMSE: 4.3810, Test Bike End RMSE: 5.2109, Test Taxi Start RMSE: 15.2568, Test Taxi End RMSE: 15.7396, 
+Test Bike Start MAPE: 43.8186, Test Bike End MAPE: 43.9226, Test Taxi Start MAPE: 38.1695, Test Taxi End MAPE: 35.7734
+Iter: 54
+Test Bike Start MAE: 2.4665, Test Bike End MAE: 3.2147, Test Taxi Start MAE: 7.1199, Test Taxi End MAE: 7.4376, 
+Test Bike Start RMSE: 4.0469, Test Bike End RMSE: 5.0640, Test Taxi Start RMSE: 14.2511, Test Taxi End RMSE: 15.1878, 
+Test Bike Start MAPE: 46.8373, Test Bike End MAPE: 45.8372, Test Taxi Start MAPE: 37.8093, Test Taxi End MAPE: 35.6317
+Iter: 55
+Test Bike Start MAE: 2.4909, Test Bike End MAE: 3.0863, Test Taxi Start MAE: 6.5072, Test Taxi End MAE: 7.5971, 
+Test Bike Start RMSE: 4.0107, Test Bike End RMSE: 4.8276, Test Taxi Start RMSE: 12.8213, Test Taxi End RMSE: 18.9809, 
+Test Bike Start MAPE: 45.2998, Test Bike End MAPE: 40.9435, Test Taxi Start MAPE: 36.4020, Test Taxi End MAPE: 35.0106
+Iter: 56
+Test Bike Start MAE: 2.6162, Test Bike End MAE: 3.2420, Test Taxi Start MAE: 7.0457, Test Taxi End MAE: 7.6570, 
+Test Bike Start RMSE: 4.2580, Test Bike End RMSE: 5.3243, Test Taxi Start RMSE: 16.0055, Test Taxi End RMSE: 16.1519, 
+Test Bike Start MAPE: 43.3015, Test Bike End MAPE: 40.7323, Test Taxi Start MAPE: 37.4381, Test Taxi End MAPE: 37.9177
+Iter: 57
+Test Bike Start MAE: 2.6007, Test Bike End MAE: 3.4374, Test Taxi Start MAE: 6.6324, Test Taxi End MAE: 7.2119, 
+Test Bike Start RMSE: 4.1087, Test Bike End RMSE: 5.6833, Test Taxi Start RMSE: 12.8786, Test Taxi End RMSE: 14.5626, 
+Test Bike Start MAPE: 42.9394, Test Bike End MAPE: 42.6910, Test Taxi Start MAPE: 37.6710, Test Taxi End MAPE: 35.0733
+Iter: 58
+Test Bike Start MAE: 2.5438, Test Bike End MAE: 2.9582, Test Taxi Start MAE: 7.5442, Test Taxi End MAE: 7.7347, 
+Test Bike Start RMSE: 4.0707, Test Bike End RMSE: 4.7311, Test Taxi Start RMSE: 15.9137, Test Taxi End RMSE: 16.4488, 
+Test Bike Start MAPE: 44.4415, Test Bike End MAPE: 41.7243, Test Taxi Start MAPE: 37.1505, Test Taxi End MAPE: 35.4625
+Iter: 59
+Test Bike Start MAE: 2.4315, Test Bike End MAE: 2.7901, Test Taxi Start MAE: 6.6628, Test Taxi End MAE: 7.7661, 
+Test Bike Start RMSE: 3.8864, Test Bike End RMSE: 4.3673, Test Taxi Start RMSE: 13.2656, Test Taxi End RMSE: 18.0686, 
+Test Bike Start MAPE: 46.1695, Test Bike End MAPE: 40.7181, Test Taxi Start MAPE: 37.4740, Test Taxi End MAPE: 39.1635
+Iter: 60
+Test Bike Start MAE: 2.3648, Test Bike End MAE: 2.9185, Test Taxi Start MAE: 6.9499, Test Taxi End MAE: 7.5755, 
+Test Bike Start RMSE: 3.7795, Test Bike End RMSE: 4.8079, Test Taxi Start RMSE: 14.8032, Test Taxi End RMSE: 17.4009, 
+Test Bike Start MAPE: 45.0989, Test Bike End MAPE: 38.4895, Test Taxi Start MAPE: 40.0513, Test Taxi End MAPE: 39.6533
+Iter: 61
+Test Bike Start MAE: 2.6118, Test Bike End MAE: 3.2142, Test Taxi Start MAE: 6.4420, Test Taxi End MAE: 7.7455, 
+Test Bike Start RMSE: 4.3186, Test Bike End RMSE: 5.2698, Test Taxi Start RMSE: 13.1667, Test Taxi End RMSE: 17.5240, 
+Test Bike Start MAPE: 42.6611, Test Bike End MAPE: 40.5993, Test Taxi Start MAPE: 38.7441, Test Taxi End MAPE: 36.3557
+-----------------------------------------------------------------
+2.5810 3.1151 7.2290 7.7510 4.2033 4.9883 15.0277 16.7435 44.9636 41.2042 38.0239 36.6995
+inference time:  0.1616532802581787
+0

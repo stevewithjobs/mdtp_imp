@@ -1,0 +1,38 @@
+digraph Smart_Cooking_Assistant {
+	node [fillcolor=lightblue fontname=Arial fontsize=12 shape=box style=filled]
+	Perception [label="感知模块"]
+	Cognition [label="认知模块"]
+	Decision [label="决策模块"]
+	Execution [label="执行模块"]
+	Food_Detection [label="食材检测"]
+	Cooking_Status [label="烹饪状态检测"]
+	Voice_Recognition [label="语音识别"]
+	Perception -> Food_Detection
+	Perception -> Cooking_Status
+	Perception -> Voice_Recognition
+	Recipe_Recommendation [label="智能菜谱推荐"]
+	Cooking_Planning [label="烹饪任务规划"]
+	Cognition -> Recipe_Recommendation
+	Cognition -> Cooking_Planning
+	Heat_Control [label="火候控制"]
+	Time_Management [label="时间管理"]
+	Voice_Assistant [label="语音助手"]
+	Decision -> Heat_Control
+	Decision -> Time_Management
+	Decision -> Voice_Assistant
+	Smart_Stove [label="智能锅具控制"]
+	Robot_Arm [label="机器人执行"]
+	Auto_Seasoning [label="自动调味"]
+	Execution -> Smart_Stove
+	Execution -> Robot_Arm
+	Execution -> Auto_Seasoning
+	Food_Detection -> Recipe_Recommendation
+	Cooking_Status -> Time_Management
+	Voice_Recognition -> Voice_Assistant
+	Recipe_Recommendation -> Cooking_Planning
+	Cooking_Planning -> Heat_Control
+	Cooking_Planning -> Smart_Stove
+	Heat_Control -> Smart_Stove
+	Time_Management -> Smart_Stove
+	Voice_Assistant -> Robot_Arm
+}

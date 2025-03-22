@@ -1,0 +1,12 @@
+Model saved at ./rlbest/qnetwork_episode_0.pth
+Model saved at ./rlbest/qnetwork_episode_10.pth
+Model saved at ./rlbest/qnetwork_episode_20.pth
+Model saved at ./rlbest/qnetwork_episode_30.pth
+Model saved at ./rlbest/qnetwork_episode_40.pth
+Model saved at ./rlbest/qnetwork_episode_50.pth
+Model saved at ./rlbest/qnetwork_episode_60.pth
+Model saved at ./rlbest/qnetwork_episode_70.pth
+Model saved at ./rlbest/qnetwork_episode_80.pth
+Model saved at ./rlbest/qnetwork_episode_90.pth
+Model saved at ./rlbest/qnetwork_episode_99.pth
+1.636432409286499
